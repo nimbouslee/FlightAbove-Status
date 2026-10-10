@@ -1,7 +1,7 @@
-url: https://flightabove.io/api/v1/health
-status: down
-code: 404
-responseTime: 583
-lastUpdated: 2026-10-10T15:19:22.436Z
+url: https://flightabove.io/api/v1/status
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2026-10-10T15:22:13.832Z
 startTime: 2026-10-10T15:19:08.678Z
 generator: Upptime <https://github.com/upptime/upptime>
