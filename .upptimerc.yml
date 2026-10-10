@@ -1,5 +1,5 @@
 owner: nimbouslee
-repo: flightabove-status
+repo: FlightAbove-Status
 
 sites:
   - name: FlightAbove Website
@@ -13,15 +13,14 @@ sites:
       - 200
     maxResponseTime: 5000
 
-
-      - name: FlightAbove Enrichment API
+  - name: FlightAbove Enrichment API
     url: https://api.flightabove.io
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
 
 status-website:
-  baseUrl: /flightabove-status
+  baseUrl: /FlightAbove-Status
   name: FlightAbove Status
   introTitle: "**FlightAbove** service status"
   introMessage: Live availability and incident updates.
