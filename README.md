@@ -1,6 +1,6 @@
 # [📈 Live Status](https://nimbouslee.github.io/FlightAbove-Status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Lee McNaughton](https://nimbouslee.github.io/FlightAbove-Status), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for FlightAbove (https://nimbouslee.github.io/FlightAbove-Status), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/nimbouslee/FlightAbove-Status/workflows/Uptime%20CI/badge.svg)](https://github.com/nimbouslee/FlightAbove-Status/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/nimbouslee/FlightAbove-Status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/nimbouslee/FlightAbove-Status/actions/workflows/response-time.yml)
