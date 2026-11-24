@@ -40,17 +40,17 @@
     "url": "https://api.flightabove.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.flightabove.io.ico",
     "slug": "flight-above-enrichment-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 495,
-    "timeWeek": 655,
-    "timeMonth": 680,
-    "timeYear": 701,
+    "time": 696,
+    "timeDay": 480,
+    "timeWeek": 631,
+    "timeMonth": 673,
+    "timeYear": 696,
     "dailyMinutesDown": {}
   }
 ]
