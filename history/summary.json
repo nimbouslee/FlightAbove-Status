@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1087,
-    "timeDay": 611,
-    "timeWeek": 710,
-    "timeMonth": 1251,
-    "timeYear": 1087,
+    "time": 1079,
+    "timeDay": 739,
+    "timeWeek": 713,
+    "timeMonth": 1238,
+    "timeYear": 1079,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1322,
-    "timeDay": 1702,
-    "timeWeek": 2213,
-    "timeMonth": 1570,
-    "timeYear": 1322,
+    "time": 1346,
+    "timeDay": 2481,
+    "timeWeek": 2335,
+    "timeMonth": 1628,
+    "timeYear": 1346,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.flightabove.io.ico",
     "slug": "flight-above-enrichment-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 480,
-    "timeWeek": 631,
-    "timeMonth": 673,
-    "timeYear": 696,
-    "dailyMinutesDown": {}
+    "uptime": "98.61%",
+    "uptimeDay": "36.74%",
+    "uptimeWeek": "90.96%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "98.61%",
+    "time": 686,
+    "timeDay": 320,
+    "timeWeek": 586,
+    "timeMonth": 657,
+    "timeYear": 686,
+    "dailyMinutesDown": {
+      "2026-11-25": 442,
+      "2026-11-24": 469
+    }
   }
 ]
